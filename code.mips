@@ -1,0 +1,4 @@
+E:
+addi $t1, $zero, 16
+lb $t2, 0($t1)
+lbu $t3, 0($t1)
